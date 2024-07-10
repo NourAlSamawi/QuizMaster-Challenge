@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oofk+pUjxOQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Source\\Repos\\QuizMaster-Challenge\\QuizMaster\\QuizMaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\bin\Debug\net7.0\QuizMaster.exe
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\bin\Debug\net7.0\QuizMaster.deps.json
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\bin\Debug\net7.0\QuizMaster.runtimeconfig.json
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\bin\Debug\net7.0\QuizMaster.dll
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\bin\Debug\net7.0\QuizMaster.pdb
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\QuizMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\QuizMaster.AssemblyInfoInputs.cache
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\QuizMaster.AssemblyInfo.cs
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\QuizMaster.csproj.CoreCompileInputs.cache
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\QuizMaster.sourcelink.json
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\QuizMaster.dll
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\refint\QuizMaster.dll
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\QuizMaster.pdb
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\QuizMaster.genruntimeconfig.cache
+C:\Users\Student\Source\Repos\QuizMaster-Challenge\QuizMaster\obj\Debug\net7.0\ref\QuizMaster.dll
